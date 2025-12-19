@@ -36,9 +36,6 @@ L'organisation des fichiers suit les meilleures pratiques de la science des donn
 └── README.md               # Documentation du projet (ce fichier)
 ```
 
-> [!IMPORTANT]
-> Prendre note que fichier présent dans le dépot est une version allégée du dataset original pour respecter les contraintes de taille de github.
-
 ---
 
 ## 🛠️ Installation et Utilisation
